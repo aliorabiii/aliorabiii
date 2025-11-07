@@ -1,61 +1,64 @@
+<p align="center">
+  <img src="YOUR_PROFILE_PHOTO_LINK" width="140" style="border-radius: 50%;">
+</p>
+
 <h1 align="center">Hi, I'm Ali Orabi 👋</h1>
-<h3 align="center">Full Stack Web Developer | Laravel & MERN Stack | Building Scalable Web Systems</h3>
+<h3 align="center">Full Stack Web Developer | Laravel & MERN Stack</h3>
 
 <p align="center">
+  <a href="https://github.com/aliorabiii">
+    <img src="https://komarev.com/ghpvc/?username=aliorabiii&color=blue&style=flat" />
+  </a>
   <a href="https://github.com/aliorabiii?tab=followers">
     <img src="https://img.shields.io/github/followers/aliorabiii?style=flat&color=blue" />
-  </a>
-  <a href="https://github.com/aliorabiii">
-    <img src="https://komarev.com/ghpvc/?username=aliorabiii&color=blue" />
   </a>
 </p>
 
 ---
 
 ### 🚀 About Me
-I’m a **Full Stack Web Developer** who builds **real-world systems** — dashboards, POS platforms, role-based admin panels, automation workflows, and business-focused web applications.
+I’m a **Full Stack Developer** focused on building **functional and scalable web systems** — admin dashboards, POS platforms, user management systems, and custom business logic tools.
 
-- 🎯 Focused on **clean architecture & scalable backend logic**
-- 🔧 Experienced with **role/permission systems**, multi-user dashboards, financial modules
 - 🌍 Based in **Lebanon**
-- 💼 Open to **remote full-time or contract opportunities**
+- 🧩 Strong interest in **backend logic + system design**
+- 🔄 Currently learning **advanced architecture, financial workflows, and scalable CRUD systems**
+- 💼 Open to **remote work & collaborations**
 
 ---
 
-### 🧰 Skills & Technologies
+### 🛠 Tech Stack
 
-#### **Core Languages & Frameworks**
-| Category | Tools |
-|---------|------|
+#### **Languages & Frameworks**
+| Area | Technologies |
+|-----|-------------|
 | Frontend | HTML, CSS, JavaScript, React, Bootstrap, Tailwind |
 | Backend | PHP, Laravel, Node.js, Express.js |
 | Databases | MySQL, MongoDB |
-| Version Control | Git & GitHub |
-| OS / Dev Tools | Linux, VS Code, Postman |
+| Tools | Git, GitHub, Postman, Linux, VS Code |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,bootstrap,tailwind,nodejs,express,mongodb,mysql,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,php,laravel,nodejs,express,mysql,mongodb,git,github,linux,vscode" />
 </p>
 
 ---
 
 ### ⭐ Featured Projects
 
-| Project | Description | Stack | Link |
-|--------|-------------|------|------|
-| **Restaurant POS & Management System** | Real-time orders, billing, inventory & expense tracking with role-based access | Laravel + MySQL | *(Private Demo Available)* |
-| **ShareHub Platform** | Simple customer portal + login system prototype | PHP + Bootstrap | https://github.com/aliorabiii/sharehub |
-| **Workout Exercise Manager** | Exercise logging + filtering UI | Dart (Flutter) | https://github.com/aliorabiii/workout-exercises-manager |
+| Project | Description | Stack |
+|--------|-------------|------|
+| **Restaurant POS System** | Real-time order and billing with roles (admin, cashier, accountant) + inventory + expenses | Laravel + MySQL |
+| **ShareHub Website** | Customer login system + clean UI dashboard | PHP + Bootstrap |
+| **Workout Exercise Manager** | Searchable and categorized exercise system | Flutter (Dart) |
 
-Want me to add clean clickable **screenshots** section? ✅ I can.  
+> I can add a **project screenshot gallery** if you'd like ✅
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliorabiii&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliorabiii&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=aliorabiii&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliorabiii&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -64,17 +67,11 @@ Want me to add clean clickable **screenshots** section? ✅ I can.
 
 ---
 
-### 🕸 Contribution Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliorabiii&theme=react-dark&hide_border=true" />
-</p>
-
----
-
 ### 🎯 Current Focus
-- Improving **System Design & Database Architecture**
-- Building **robust financial & reporting modules**
-- Integrating **AI into practical web systems**
+- Clean scalable backend logic
+- Advanced database structuring
+- Financial & reporting modules
+- Strong UI/UX admin dashboards
 
 ---
 
