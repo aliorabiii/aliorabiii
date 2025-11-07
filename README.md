@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_PROFILE_PHOTO_LINK" width="140" style="border-radius: 50%;">
+  <img src="" width="140" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">Hi, I'm Ali Orabi 👋</h1>
