@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="" width="140" style="border-radius: 50%;">
-</p>
+\
 
 <h1 align="center">Hi, I'm Ali Orabi 👋</h1>
 <h3 align="center">Full Stack Web Developer | Laravel & MERN Stack</h3>
